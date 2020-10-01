@@ -1,0 +1,1126 @@
+{
+  "_embedded": {
+    "wordDTOList": [
+      {
+        "name": "Nelson Mandela",
+        "_embedded": {
+          "metadata": {
+            "id": "363"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Mahatma Gandhi",
+        "_embedded": {
+          "metadata": {
+            "id": "364"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Mao Zedong",
+        "_embedded": {
+          "metadata": {
+            "id": "365"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Margaret Thatcher",
+        "_embedded": {
+          "metadata": {
+            "id": "366"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "George Bush",
+        "_embedded": {
+          "metadata": {
+            "id": "367"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Chrystia Freeland",
+        "_embedded": {
+          "metadata": {
+            "id": "368"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Aung San Suu Kyi",
+        "_embedded": {
+          "metadata": {
+            "id": "369"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Adolf Hitler",
+        "_embedded": {
+          "metadata": {
+            "id": "370"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Abraham Lincoln",
+        "_embedded": {
+          "metadata": {
+            "id": "371"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Xi Jinping",
+        "_embedded": {
+          "metadata": {
+            "id": "372"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Vladimir Putin",
+        "_embedded": {
+          "metadata": {
+            "id": "373"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Donald Trump",
+        "_embedded": {
+          "metadata": {
+            "id": "374"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Angela Merkel",
+        "_embedded": {
+          "metadata": {
+            "id": "375"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Narendra Modi",
+        "_embedded": {
+          "metadata": {
+            "id": "376"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Theresa May",
+        "_embedded": {
+          "metadata": {
+            "id": "377"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "_embedded": {
+          "metadata": {
+            "id": "378"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Ali Khamenei",
+        "_embedded": {
+          "metadata": {
+            "id": "379"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "King Salman",
+        "_embedded": {
+          "metadata": {
+            "id": "380"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Shinzo Abe",
+        "_embedded": {
+          "metadata": {
+            "id": "381"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "David Cameron",
+        "_embedded": {
+          "metadata": {
+            "id": "382"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Pope Francis",
+        "_embedded": {
+          "metadata": {
+            "id": "383"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Barack Obama",
+        "_embedded": {
+          "metadata": {
+            "id": "384"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Justin Trudeau",
+        "_embedded": {
+          "metadata": {
+            "id": "385"
+          },
+          "category": {
+            "name": "Politicians",
+            "_embedded": {
+              "metadata": {
+                "id": "3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Jeff Bezos",
+        "_embedded": {
+          "metadata": {
+            "id": "386"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Larry Page",
+        "_embedded": {
+          "metadata": {
+            "id": "387"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "_embedded": {
+          "metadata": {
+            "id": "388"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Jack Ma",
+        "_embedded": {
+          "metadata": {
+            "id": "389"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Tim Cook",
+        "_embedded": {
+          "metadata": {
+            "id": "390"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Satya Nadella",
+        "_embedded": {
+          "metadata": {
+            "id": "391"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Elon Musk",
+        "_embedded": {
+          "metadata": {
+            "id": "392"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Bill Gates",
+        "_embedded": {
+          "metadata": {
+            "id": "393"
+          },
+          "category": {
+            "name": "Technology",
+            "_embedded": {
+              "metadata": {
+                "id": "4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Tom Hanks",
+        "_embedded": {
+          "metadata": {
+            "id": "394"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "_embedded": {
+          "metadata": {
+            "id": "395"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Brad Pitt",
+        "_embedded": {
+          "metadata": {
+            "id": "396"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Ryan Reynolds",
+        "_embedded": {
+          "metadata": {
+            "id": "397"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Keanu Reeves",
+        "_embedded": {
+          "metadata": {
+            "id": "398"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Tom Cruise",
+        "_embedded": {
+          "metadata": {
+            "id": "399"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Bruce Lee",
+        "_embedded": {
+          "metadata": {
+            "id": "400"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Jackie Chan",
+        "_embedded": {
+          "metadata": {
+            "id": "401"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "_embedded": {
+          "metadata": {
+            "id": "402"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Morgan Freeman",
+        "_embedded": {
+          "metadata": {
+            "id": "403"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Will Smith",
+        "_embedded": {
+          "metadata": {
+            "id": "404"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Eddie Murphy",
+        "_embedded": {
+          "metadata": {
+            "id": "405"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "_embedded": {
+          "metadata": {
+            "id": "406"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Shahrukh Khan",
+        "_embedded": {
+          "metadata": {
+            "id": "407"
+          },
+          "category": {
+            "name": "Actors",
+            "_embedded": {
+              "metadata": {
+                "id": "5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Jennifer Aniston",
+        "_embedded": {
+          "metadata": {
+            "id": "408"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Jennifer Lawrence",
+        "_embedded": {
+          "metadata": {
+            "id": "409"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Angelina Jolie",
+        "_embedded": {
+          "metadata": {
+            "id": "410"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Julia Roberts",
+        "_embedded": {
+          "metadata": {
+            "id": "411"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Kate Winslet",
+        "_embedded": {
+          "metadata": {
+            "id": "412"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Nicole Kidman",
+        "_embedded": {
+          "metadata": {
+            "id": "413"
+          },
+          "category": {
+            "name": "Actress",
+            "_embedded": {
+              "metadata": {
+                "id": "6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "David Beckham",
+        "_embedded": {
+          "metadata": {
+            "id": "414"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Madonna",
+        "_embedded": {
+          "metadata": {
+            "id": "415"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Michael  schumacher",
+        "_embedded": {
+          "metadata": {
+            "id": "416"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Michael Jordan",
+        "_embedded": {
+          "metadata": {
+            "id": "417"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Michael Phelps",
+        "_embedded": {
+          "metadata": {
+            "id": "418"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Novak Djokovic",
+        "_embedded": {
+          "metadata": {
+            "id": "419"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Pele",
+        "_embedded": {
+          "metadata": {
+            "id": "420"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Roger Federer",
+        "_embedded": {
+          "metadata": {
+            "id": "421"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Serena Williams",
+        "_embedded": {
+          "metadata": {
+            "id": "422"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Sachin Tendulkar",
+        "_embedded": {
+          "metadata": {
+            "id": "423"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Tiger Woods",
+        "_embedded": {
+          "metadata": {
+            "id": "424"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Usain Bolt",
+        "_embedded": {
+          "metadata": {
+            "id": "425"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Virat Kohli",
+        "_embedded": {
+          "metadata": {
+            "id": "426"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "_embedded": {
+          "metadata": {
+            "id": "427"
+          },
+          "category": {
+            "name": "Sports",
+            "_embedded": {
+              "metadata": {
+                "id": "7"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Albert Einstein",
+        "_embedded": {
+          "metadata": {
+            "id": "428"
+          },
+          "category": {
+            "name": "scientist",
+            "_embedded": {
+              "metadata": {
+                "id": "8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Alexander Graham Bell",
+        "_embedded": {
+          "metadata": {
+            "id": "429"
+          },
+          "category": {
+            "name": "scientist",
+            "_embedded": {
+              "metadata": {
+                "id": "8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Charles Darwin",
+        "_embedded": {
+          "metadata": {
+            "id": "430"
+          },
+          "category": {
+            "name": "scientist",
+            "_embedded": {
+              "metadata": {
+                "id": "8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Isaac Newton",
+        "_embedded": {
+          "metadata": {
+            "id": "431"
+          },
+          "category": {
+            "name": "scientist",
+            "_embedded": {
+              "metadata": {
+                "id": "8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Marie Curie",
+        "_embedded": {
+          "metadata": {
+            "id": "432"
+          },
+          "category": {
+            "name": "scientist",
+            "_embedded": {
+              "metadata": {
+                "id": "8"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
